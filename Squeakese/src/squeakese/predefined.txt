@@ -1,0 +1,12 @@
+11
+acorn:squeak
+eat:squeak squeakin
+here:squeakity
+me:squeakin
+missing:squeakity
+not here:squeak squeakity
+tell:squeaky
+tell what happened:squeaky squeak
+what direction:squeakity squeak squeakin
+where:squeakity squeak
+you:squeaker
