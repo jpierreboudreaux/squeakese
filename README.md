@@ -1,0 +1,2 @@
+# squeakese
+Procedurally Generated Language
